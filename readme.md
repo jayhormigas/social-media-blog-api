@@ -1,13 +1,12 @@
 # Social Media Blog API
 
 ## Project Description  
-The **Social Media Blog API** is a backend application designed to manage **user accounts and messages** in a **micro-blogging platform**. It provides **RESTful API endpoints** to handle **user registrations, authentication, message creation, retrieval, updating, and deletion**. This project follows a **three-layer architecture** with **Java, Javalin, and Spring**, ensuring scalability and maintainability.  
+This social media application will be an api backend without a frontend. The app will have the ability to manage user accounts and messages that they submit to the application. Users will be able to see all of the messages posted to the site as well as the messages posted by a particular user. In either case, we require a backend which is able to deliver the data needed to display this information as well as process actions like logins, registrations, message creations, message updates, and message deletions.
 
 ## Technologies Used  
 - **Java** - Version 17  
 - **Javalin** - Lightweight web framework     
-- **JUnit & Mockito** - Unit testing framework  
-- **Git** - Version control  
+- **JDBC** - Database connectivity for executing SQL queries
 
 ## Features  
 
